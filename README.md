@@ -9,13 +9,13 @@
 
 <!-- --- Your Info --- -->
 <p align="center">
-  <code>windd or taryn</code> &nbsp;✦&nbsp; <code>she / they</code> &nbsp;✦&nbsp; <code>utc+8</code>
+  <code>INTJ</code> &nbsp;✦&nbsp; <code>she\her</code> &nbsp;✦&nbsp; <code>ART</code>
 </p>
 
 <br>
 
 <!-- --- Bottom Divider Line (using the same image link) --- -->
-<img src="YOUR_RAW_IMAGE_LINK_HERE" width="400" alt="ornate divider flourish" />
+<img src="https://github.com/user-attachments/assets/3f1f55c0-e395-451b-bbf8-5de323e0efe9" width="400" alt="ornate divider flourish"/>
 
 <br>
 
@@ -28,9 +28,9 @@
     <td align="left" width="50%">
       <h3>📜 about</h3>
       <ul>
-        <li><b>name:</b> siffrin / taryn[cite: 1]</li>
-        <li><b>status:</b> trapped in the same second</li>
-        <li><b>vibe:</b> monochrome, looping, quiet</li>
+        <li><b>name:</b> neleto / honey </li>
+        <li><b>status:</b> Currently learning python</li>
+        <li><b>vibe:</b> whimsy 𓏲ּ𝄢 </li>
         <li><b>dni:</b> if anti[cite: 1]</li>
       </ul>
     </td>
@@ -45,7 +45,18 @@
     </td>
   </tr>
 </table>
-
+<table align="center">
+  <tr>
+    <td align="left" width="50%">
+      <h3>📜 Languages to aim</h3>
+      <ul>
+        <li><b>name:</b> siffrin / taryn[cite: 1]</li>
+        <li><b>status:</b> trapped in the same second</li>
+        <li><b>vibe:</b> monochrome, looping, quiet</li>
+        <li><b>dni:</b> if anti[cite: 1]</li>
+      </ul>
+    </td>
+    <td align="left" width="50%">
 ---
 
 ### 🕯️ stats & tools
