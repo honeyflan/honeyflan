@@ -64,8 +64,9 @@
   
   <br><br>
 
+<!-- Skills restricted to Python and HTML only -->
   <p>
-    <img src="https://skillicons.dev/icons?i=py,js,html,css,git,linux,vscode&theme=dark" alt="skills" />
+    <img src="https://skillicons.dev/icons?i=py,html&theme=dark" alt="skills" />
   </p>
 </div>
 
